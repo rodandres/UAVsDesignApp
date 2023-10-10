@@ -1,0 +1,7 @@
+Parametro,Valor
+Nombre Del Archivo,1
+Masa total de la aeronave (kg),2
+Carga alar (kgf/m^2),3
+Desnidad del aire en despegue (kg/m^3),4
+Distancia de carrera en despegue (m),5
+Coeficiente de sustentacion maximo,6
